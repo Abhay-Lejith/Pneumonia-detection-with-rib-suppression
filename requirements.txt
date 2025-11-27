@@ -1,0 +1,10 @@
+tensorflow
+Keras==2.4.3
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+Pillow==7.2.0
+tqdm
+tf-keras-vis==0.8.7
